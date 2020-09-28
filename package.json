@@ -1,0 +1,13 @@
+{
+  "name": "InsertMedic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "csv-parser": "^2.3.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
